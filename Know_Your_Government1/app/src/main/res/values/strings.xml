@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Know Your Government</string>
+    <string name="title_activity_photo">PhotoActivity</string>
+    <string name="know_your_government">Know Your Government</string>
+    <string name="version_1_0">Version 1.0</string>
+    <string name="powered_by">Powered by</string>
+    <string name="_2020_akshith_reddy">© 2020, Akshith Reddy</string>
+    <string name="google_civic_information_api">Google Civic Information API</string>
+</resources>
