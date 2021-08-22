@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Multi-Note Pad</string>
+    <string name="multi_notes">Multi-Notes</string>
+    <string name="_2020_venkata_akshith_reddy_kasireddy">2020, Venkata Akshith Reddy Kasireddy</string>
+    <string name="version_1_0">Version 1.0</string>
+    <string name="textview">TextView</string>
+    <string name="name">Name</string>
+    <string name="about">about</string>
+    <string name="add">add</string>
+    <string name="save">save</string>
+    <string name="enter_title">enter title</string>
+    <string name="enter_description">enter description</string>
+    <string name="file_name">multi1.json</string>
+</resources>
